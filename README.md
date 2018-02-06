@@ -17,7 +17,7 @@
 - Once it has been created use the command ```kitchen converge```
 - When the converge has finished check if tests are running using ```kitchen verify``` 
 - To log into the virtual machine use the command ```kitchen login``` 
-- Congratulations you are now using MongoDB on a virtual machine
+- Congratulations you are now using Nodejs on a virtual machine
 
 ## Credits
 
